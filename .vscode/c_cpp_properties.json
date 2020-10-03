@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/ufo/Developer/ATMEL/avr8-gnu-toolchain-linux_x86_64/bin/"
+            ],
+            "defines": [
+                "__AVR_ATmega16__"
+            ],
+            "compilerPath": "/home/ufo/Developer/ATMEL/avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc",
+            "cStandard": "c18",
+            "cppStandard": "gnu++20",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
